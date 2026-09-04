@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.NetFlixpasso" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaria</item>
+        <item name="colorPrimaryVariant">@color/primaria_variacao</item>
+        <item name="colorSecondary">@color/secundaria</item>
+        <item name="android:windowBackground">@color/fundo</item>
+    </style>
+
+    <style name="Theme.NetFlixpasso" parent="Base.Theme.NetFlixpasso" />
+</resources>
