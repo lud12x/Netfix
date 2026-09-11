@@ -1,3 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">Netflix</string>
+    <string name="serie">Série</string>
+    <string name="filmes">Filmes</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="suspense">Suspense</string>
+    <string name="terror">Terror</string>
+    <string name="psicologico">Psicologico</string>
+    <string name="assistir">Assistir</string>
+    <string name="minha_lista_botao">MINHA LISTA</string>
+    <string name="detalhes">DETALHES</string>
+    <string name="lancamento">Lançamento</string>
+    <string name="nome_aluno">Ludmila Souza Santiago</string>
+
 </resources>
